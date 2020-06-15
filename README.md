@@ -20,4 +20,4 @@ Done!
 
 See
 
-![](https://github.com/hupo376787/SplashTest/blob/master/000.gif)
+![](https://github.com/hupo376787/SplashTest/blob/master/update.gif)
